@@ -11,4 +11,4 @@ Por enquanto, contém os seguintes itens:
 2. Aula 1
 3. Aula 3
 4. Repositório para documentos
-https://www.dropbox.com/sh/vf2k2336dcxr5qc/AADMjEWDVt2ASDP-ZY4HNPJaa?dl=0
+https://drive.google.com/drive/folders/1rkqyq4O4s-2jw3Tw7e256p5ggCXXTpLq?usp=sharing
